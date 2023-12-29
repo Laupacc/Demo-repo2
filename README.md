@@ -1,0 +1,3 @@
+# New folder
+
+Some text
